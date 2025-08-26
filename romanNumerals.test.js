@@ -1,6 +1,6 @@
 import { test, expect } from "vitest";
 
-function romanNumerals(number) {
+function romanNumerals() {
   return "I";
 }
 
